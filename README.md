@@ -1,6 +1,6 @@
 # hyprland-layoutswitch
 
-Python script to change current keyboard layout 
+Python script to change current keyboard layout with notification!
 
 # USAGE 
 
