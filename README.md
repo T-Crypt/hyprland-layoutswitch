@@ -17,5 +17,7 @@ python3 keyboardswitch.py
 # BINDING
 
 bind = $mainMod, K, exec, python3 ~/path/to/keyboardswitch.py
+
 or 
+
 bind = $mainMod, K, exec, ~/path/to/keyboardswitch.sh
